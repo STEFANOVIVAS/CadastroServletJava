@@ -11,6 +11,7 @@
                 <p>Informe o CPF do cliente <input type="text" name="cpf"></p>
                 <p><input type="submit" value="cadastrar"></p>
             </form>
+            <a href="app/historico">Historico</a>
 
         </div>
 
